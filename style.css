@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-color: rgb(23, 42, 16);
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.Grupo {
+    margin: 15px;
+    font-size: 23px;
+    font-weight: 650;
+}
+
+.botao {
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    bottom: 0;
+    border-radius: 5px;
+    fill: 10px;
+    margin: 15px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.rodape img {
+    height: 50px;
+    width: 150px;
+}
+
+.botao:hover {
+    background-color: #8ebb93;
+}
